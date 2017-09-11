@@ -1,0 +1,16 @@
+{
+  "name": "matiapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mauricio Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.5.0",
+    "mongoose": "^4.11.10",
+    "nodemon": "^1.12.0"
+  }
+}
